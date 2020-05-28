@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map PID2
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+pid2	KEYWORD1	pid2
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+showKP	KEYWORD2
+showKI	KEYWORD2
+showKD	KEYWORD2
+calc	KEYWORD2
+setKP	KEYWORD2
+setKI	KEYWORD2
+setKD	KEYWORD2
+setParam	KEYWORD2
+resetOutput	KEYWORD2
+SV	KEYWORD2
+showI	KEYWORD2
+showP	KEYWORD2
+showD	KEYWORD2
+setLimit	KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################

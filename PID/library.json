@@ -1,0 +1,16 @@
+{
+  "name": "PID",
+  "keywords": "showKP, showKI, showKD, calc, setParam,resetOutput",
+  "description": "PID Galih Setyawan",
+  "include": "Arduino/pid2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jrowberg/i2cdevlib.git"
+  },
+  "dependencies": {
+    "name": "I2Cdevlib-Core",
+    "frameworks": "arduino"
+  },
+  "frameworks": "arduino",
+  "platforms": "atmelavr"
+}
